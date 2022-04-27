@@ -17,3 +17,10 @@
 3. Throw an error when the arguments passed in not a number.
 4. Make first test fail and see if you get the result of second test.
 5. If not fix it using the test framework (try...catch) we learned in the testing framework video.
+
+
+
+
+
+
+
